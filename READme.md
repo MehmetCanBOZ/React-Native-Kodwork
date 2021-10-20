@@ -1,14 +1,31 @@
 # React-Native - Kodwork 
 
-<img src="src/assets/i1.png" height="500"> 
 
-<img src="src/assets/i2.png" height="500">
+<p float="left">
+  <img src="src/assets/i1.png" height="500">
+  <img src="src/assets/i2.png" height="500">
+  <img src="src/assets/i3.png" height="500">
+</p>
 
-<img src="src/assets/i3.png" height="500"> 
+<p float="left">
+  <img src="src/assets/i4.png" height="500">
+  <img src="src/assets/i5.png" height="500">
+</p>
 
-<img src="src/assets/i4.png" height="500">
 
-<img src="src/assets/i5.png" height="500">
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="src/assets/i1.png" height="500"></td>
+    <td><img src="src/assets/i2.png" height="500"></td>
+    <td><img src="src/assets/i3.png" height="500"> </td>
+  </tr>
+ </table>
+
 
 ## Features
 
