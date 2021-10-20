@@ -7,9 +7,9 @@
      <td>Job Detail favorite/submit buttons</td>
   </tr>
   <tr>
-    <td><img align="center" src="src/assets/i1.png" height="500"></td>
-    <td><img align="center" src="src/assets/i2.png" height="500"></td>
-    <td><img align="center" src="src/assets/i3.png" height="500"> </td>
+    <td padding = "10px"><img align="center" src="src/assets/i1.png" height="500"></td>
+    <td padding = "10px"><img align="center" src="src/assets/i2.png" height="500"></td>
+    <td padding = "10px"><img align="center" src="src/assets/i3.png" height="500"> </td>
   </tr>
  </table>
 
@@ -19,8 +19,8 @@
      <td>Prevent Readding job to Favorite List</td>
   </tr>
   <tr>
-    <td><img align="center" src="src/assets/i4.png" height="500"></td>
-    <td><img align="center" src="src/assets/i5.png" height="500"></td>
+    <td padding = "10px"><img align="center" src="src/assets/i4.png" height="500"></td>
+    <td padding = "10px"><img align="center" src="src/assets/i5.png" height="500"></td>
   </tr>
  </table>
 
